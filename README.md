@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./banne.png)
 I'm from 42 Paris, a Junior FullStack developper.
 I am passionate about web, mobile, and GenAI, I transitioned from railway engineering to computer science after 7 years.
 With my engineering background, curiosity, adaptability and rigor, I want to contribute to shaping the future of the tech industry. 
