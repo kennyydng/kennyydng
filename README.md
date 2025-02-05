@@ -12,12 +12,19 @@ Actually:
 ---
 
 ## :bar_chart: 42 Stats
-[![<chduong>'s 42 stats](https://badge.mediaplus.ma/<darkblue>/<chduong>)](https://github.com/chduong/badge42)
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/greenbinary/chduong?1337Badge=off&UM6P=off" alt="chduong's 42 stats" />
+  </a>
+</p>
 
 ## ⭐ GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chduong42&theme=algolia" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chduong42&layout=compact&langs_count=8&card_width=320&theme=algolia" />
-</a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chduong42&theme=algolia" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chduong42&layout=compact&langs_count=8&card_width=320&theme=algolia" />
+  </a>
+</p>
+
