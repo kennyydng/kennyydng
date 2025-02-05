@@ -12,7 +12,7 @@ Actually:
 ---
 
 ## :bar_chart: 42 Stats
-<p align="center"><a href="https://github.com/JaeSeoKim/badge42" ><img src="https://badge42.vercel.app/api/v2/cldxdz29000110fl11yicbsj4/stats?cursusId=21&coalitionId=45" alt="chduong's 42 stats" /></a></p>
+[![<chduong>'s 42 stats](https://badge.mediaplus.ma/<darkblue>/<chduong>)](https://github.com/chduong/badge42)
 
 ## ⭐ GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
